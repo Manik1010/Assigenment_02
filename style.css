@@ -462,6 +462,9 @@ span {
     .love-and-enjoy{
         margin-left: -8px;
     }
+    /* .love-and-enjoy-div{
+        margin-left: 50px;
+    } */
     .love-and-enjoy-div-dis{
         width: 100%;
     }
@@ -507,7 +510,7 @@ span {
         margin-left: 550px;
         
     }
-    ..field img{
+    .field img{
         width: 50%;
     }
     /* .bat{
