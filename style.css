@@ -439,7 +439,7 @@ span {
     }
     .banner-pic img{
         margin-left: -10px;
-        width: 100%;
+        width: 70%;
         margin-top: -10px;
     }
     .banner-btn{
@@ -473,11 +473,16 @@ span {
         margin-top: 850px;
         width: 90%;
     }
+    /* .puri_img{
+        width: 10%;
+    } */
     .some-facts{
         margin-left: -8px;
     }
     .some-fact-dis{
-        width: auto;
+        /* width: auto; */
+        width: 242px;
+        height: 52px;
     }
     .cards{
         margin-left: -2px;
@@ -506,12 +511,19 @@ span {
         margin-left: -115px;
         grid-column-gap: 14px;
     }
+    .my-choese {
+        margin-left: -50px;
+    }
     .field{
-        margin-left: 550px;
+        margin-left: 50px;
         
     }
     .field img{
         width: 50%;
+    }
+    .ball {
+
+        left: -110px;
     }
     /* .bat{
         width: 80%;
